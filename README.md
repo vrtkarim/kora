@@ -1,15 +1,18 @@
+<p align="center">
 # kora
-Football streams app.
+live football streams app.
 # Screenshots
-![categories](https://github.com/vrtkarim/kora/assets/109855615/991d2b82-fdf0-4430-bb26-14423a514710)
+![available categories](https://github.com/vrtkarim/kora/assets/109855615/bd1278be-653e-423a-a383-a6eee70555fb)
+![channels](https://github.com/vrtkarim/kora/assets/109855615/007441df-8951-40d4-b5ee-bc0f90104d90)
+![streaming](https://github.com/vrtkarim/kora/assets/109855615/d664c2bb-c517-4655-aaec-1285b907d951)
 
-![channels](https://github.com/vrtkarim/kora/assets/109855615/ec25e58b-4e6e-4a60-a388-28d0c52372df)
+# Demonstration
 
-![watching](https://github.com/vrtkarim/kora/assets/109855615/125c641c-b1a1-4f7a-a553-969e52f90bef)
+https://github.com/vrtkarim/kora/assets/109855615/b8fd3ee1-2dc1-47fe-80b8-b753154d40f1
 
- # Demonstration
 
-https://github.com/vrtkarim/kora/assets/109855615/0cb0a645-3073-482f-9413-e2da2856044e
+</p>
+
 
 
 
