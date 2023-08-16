@@ -1,6 +1,9 @@
 <p align="center">
+  
 # kora
+
 live football streams app.
+  
 # Screenshots
   
 ![available categories](https://github.com/vrtkarim/kora/assets/109855615/bd1278be-653e-423a-a383-a6eee70555fb)
